@@ -443,7 +443,9 @@ body {
     display: flex;
 }
 
-
+.main-info-footer{
+    gap: 120px;
+}
 
 .footer-header {
     font-weight: 500;
